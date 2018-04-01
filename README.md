@@ -14,17 +14,16 @@
 1) animSpeed: '500' (default)
  
 Автоматически изменять размеры холдера табов
- autoHeight: true
+ 1) autoHeight: true
  
 Аттрибут таб-ссылки c указанием ID таба
- attrib: 'href' (default)
-         'title'
-         'rel'
-         'data-tab'
+ 1) attrib: 'href' (default)
+ 2) attrib: 'title'
+ 3) attrib: 'rel'
+ 4) attrib: 'data-tab'
          
 Активировать таб при соответствующем #якоре в адресной строке браузера
- checkHash: true
+ 1) checkHash: true
  
 Добавлять активный класс на родителя таб-ссылки
-Аттрибут таб-ссылки c 
- addToParent: true
+ 1) addToParent: true
