@@ -11,7 +11,7 @@
 2) event: 'mouseenter'
 
 Длительность анимации (мс)
- animSpeed: '500' (default)
+1) animSpeed: '500' (default)
  
 Автоматически изменять размеры холдера табов
  autoHeight: true
