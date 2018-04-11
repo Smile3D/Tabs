@@ -10,8 +10,8 @@
 <code>click (default)</code><br>
 <code>event: 'mouseenter'</code><br>
 
-Длительность анимации (мс)
-1) animSpeed: '500' (default)
+Длительность анимации (мс)<br>
+<code>animSpeed: '500' (default)</code><br>
  
 Автоматически изменять размеры холдера табов
  1) autoHeight: true
