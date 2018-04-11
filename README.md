@@ -7,8 +7,8 @@
 <strong>Дополнительные настройки:</strong>
 
 Переключать табы на
-<code>click (default)</code>
-<code>event: 'mouseenter'</code>
+<code>click (default)</code><br>
+<code>event: 'mouseenter'</code><br>
 
 Длительность анимации (мс)
 1) animSpeed: '500' (default)
