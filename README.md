@@ -6,7 +6,7 @@
 
 <strong>Дополнительные настройки:</strong>
 
-Переключать табы на
+Переключать табы на<br>
 <code>click (default)</code><br>
 <code>event: 'mouseenter'</code><br>
 
