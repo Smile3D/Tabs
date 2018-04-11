@@ -13,17 +13,17 @@
 Длительность анимации (мс)<br>
 <code>animSpeed: '500' (default)</code><br>
  
-Автоматически изменять размеры холдера табов
- 1) autoHeight: true
+Автоматически изменять размеры холдера табов<br>
+<code>autoHeight: true</code>
  
-Аттрибут таб-ссылки c указанием ID таба
- 1) attrib: 'href' (default)
- 2) attrib: 'title'
- 3) attrib: 'rel'
- 4) attrib: 'data-tab'
+Аттрибут таб-ссылки c указанием ID таба<br>
+<code>attrib: 'href' (default)</code><br>
+<code>attrib: 'title'</code><br>
+<code>attrib: 'rel'</code><br>
+<code>attrib: 'data-tab'</code><br>
          
-Активировать таб при соответствующем #якоре в адресной строке браузера
- 1) checkHash: true
+Активировать таб при соответствующем #якоре в адресной строке браузера<br>
+<code>checkHash: true</code><br>
  
-Добавлять активный класс на родителя таб-ссылки
- 1) addToParent: true
+Добавлять активный класс на родителя таб-ссылки<br>
+<code>addToParent: true</code>
