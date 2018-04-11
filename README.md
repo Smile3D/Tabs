@@ -1,14 +1,14 @@
 # Tabs
 
 Селектор табсета: .tabset<br>
-Селектора таб-ссылок: a
-Класс активной таб-ссылки: active
+Селектора таб-ссылок: a<br>
+Класс активной таб-ссылки: active<br>
 
-Дополнительные настройки:
+<strong>Дополнительные настройки:</strong>
 
 Переключать табы на
-1) click (default)
-2) event: 'mouseenter'
+<code>click (default)</code>
+<code>event: 'mouseenter'</code>
 
 Длительность анимации (мс)
 1) animSpeed: '500' (default)
