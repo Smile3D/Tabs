@@ -2,7 +2,9 @@
 
 Селектор табсета: .tabset<br>
 Селектора таб-ссылок: a<br>
-Класс активной таб-ссылки: active<br>
+Класс активной таб-ссылки:<br>
+<code>active</code><br>
+<code>activeClass: 'active1'</code><br>
 
 <strong>Дополнительные настройки:</strong>
 
